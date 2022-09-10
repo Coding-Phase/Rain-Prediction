@@ -2,7 +2,7 @@
 
 # Rain - Prediction
 
-Rain Prediction on self constructed dataset using ANN.
+Rain Prediction on  dataset using ANN.
 
                                  How to get to our project
 
