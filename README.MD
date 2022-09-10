@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Thakur</h1>
 
-# Masked-Face-Detection
+# Rain - Prediction
 
 Rain Prediction on self constructed dataset using ANN.
 
